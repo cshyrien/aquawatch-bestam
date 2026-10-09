@@ -1,0 +1,11 @@
+{
+  "title": "AquaWatch-Team Bestam",
+  "description": "Monitors and reports water quality in a dormitory, enabling residents to submit visual assessments while managers track issues and verify resolutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
